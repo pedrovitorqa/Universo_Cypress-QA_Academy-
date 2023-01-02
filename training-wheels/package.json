@@ -1,0 +1,17 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels",
+    "qaninja"
+  ],
+  "author": "Pedro Vitor",
+  "license": "ISC"
+}
