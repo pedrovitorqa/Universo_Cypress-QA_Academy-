@@ -13,5 +13,8 @@
     "qaninja"
   ],
   "author": "Pedro Vitor",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
 }
